@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-Sam is a butthole      </p>
+Samantha's Husband is Teaching her React, Hooray!      </p>
     </>
   )
 }
